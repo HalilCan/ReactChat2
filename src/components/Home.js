@@ -7,13 +7,13 @@ import {
 
 class Home extends React.Component {
     render () {
-        return {
+        return (
             <View>
                 <Text>
                     Hello Home
                 </Text>
             </View>
-        };
+        );
     }
 }
 
